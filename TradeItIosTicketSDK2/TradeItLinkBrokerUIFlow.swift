@@ -1,6 +1,7 @@
 import UIKit
 import MBProgressHUD
 import SafariServices
+import AuthenticationServices
 
 @objc public protocol LinkBrokerUIFlow {
     func pushLinkBrokerFlow(
